@@ -1,3 +1,3 @@
 # git-kraken-repo
 
-# demo : https://sentra.onrender.com
+# DEMO : https://sentra.onrender.com
